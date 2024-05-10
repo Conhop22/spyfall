@@ -3,123 +3,123 @@
 	"name": "Spyfall 1",
 	"locations": [
 		{
-			"name": "locations.airplane",
+			"name": "locations.chessboard",
 			"roles": [
-				"locations.roles.airplane.first class passenger",
-				"locations.roles.airplane.air marshall",
-				"locations.roles.airplane.mechanic",
-				"locations.roles.airplane.air hostess",
-				"locations.roles.airplane.copilot",
-				"locations.roles.airplane.captain",
-				"locations.roles.airplane.economy class passenger"
+				"locations.roles.chessboard.King",
+				"locations.roles.chessboard.Queen",
+				"locations.roles.chessboard.Bishop",
+				"locations.roles.chessboard.Rook",
+				"locations.roles.chessboard.Knight",
+				"locations.roles.chessboard.Pawn",
+				"locations.roles.chessboard.Aiden"
 			]
 		},
 		{
-			"name": "locations.bank",
+			"name": "locations.twinTowers",
 			"roles": [
-				"locations.roles.bank.armored car driver",
-				"locations.roles.bank.manager",
-				"locations.roles.bank.consultant",
-				"locations.roles.bank.robber",
-				"locations.roles.bank.security guard",
-				"locations.roles.bank.teller",
-				"locations.roles.bank.customer"
+				"locations.roles.twinTowers.pilot",
+				"locations.roles.twinTowers.president",
+				"locations.roles.twinTowers.office worker",
+				"locations.roles.twinTowers.terrorist",
+				"locations.roles.twinTowers.copilot",
+				"locations.roles.twinTowers.kindergartener",
+				"locations.roles.twinTowers.news host"
 			]
 		},
 		{
-			"name": "locations.beach",
+			"name": "locations.mexicanBorder",
 			"roles": [
-				"locations.roles.beach.beach waitress",
-				"locations.roles.beach.kite surfer",
-				"locations.roles.beach.lifeguard",
-				"locations.roles.beach.thief",
-				"locations.roles.beach.beach photographer",
-				"locations.roles.beach.ice cream truck driver",
-				"locations.roles.beach.beach goer"
+				"locations.roles.mexicanBorder.border patrol",
+				"locations.roles.mexicanBorder.Lester",
+				"locations.roles.mexicanBorder.escapee",
+				"locations.roles.mexicanBorder.Sharpshooter",
+				"locations.roles.mexicanBorder.prisoner",
+				"locations.roles.mexicanBorder.train Driver",
+				"locations.roles.mexicanBorder.tank Driver"
 			]
 		},
 		{
-			"name": "locations.cathedral",
+			"name": "locations.Wordle",
 			"roles": [
-				"locations.roles.cathedral.priest",
-				"locations.roles.cathedral.beggar",
-				"locations.roles.cathedral.sinner",
-				"locations.roles.cathedral.tourist",
-				"locations.roles.cathedral.sponsor",
-				"locations.roles.cathedral.chorister",
-				"locations.roles.cathedral.parishioner"
+				"locations.roles.Wordle.word",
+				"locations.roles.Wordle.yellow letter",
+				"locations.roles.Wordle.green letter",
+				"locations.roles.Wordle.grey letter",
+				"locations.roles.Wordle.unguessed letter",
+				"locations.roles.Wordle.angry person",
+				"locations.roles.Wordle.hardmode player"
 			]
 		},
 		{
 			"name": "locations.circus tent",
 			"roles": [
-				"locations.roles.circus tent.acrobat",
-				"locations.roles.circus tent.animal trainer",
-				"locations.roles.circus tent.magician",
-				"locations.roles.circus tent.fire eater",
-				"locations.roles.circus tent.clown",
-				"locations.roles.circus tent.juggler",
-				"locations.roles.circus tent.visitor"
+				"locations.roles.circus tent.Lester",
+				"locations.roles.circus tent.Aiden",
+				"locations.roles.circus tent.Connor",
+				"locations.roles.circus tent.Gabriel",
+				"locations.roles.circus tent.Aiden",
+				"locations.roles.circus tent.James",
+				"locations.roles.circus tent.AMERICAN!"
 			]
 		},
 		{
-			"name": "locations.corporate party",
+			"name": "locations.theTag",
 			"roles": [
-				"locations.roles.corporate party.entertainer",
-				"locations.roles.corporate party.manager",
-				"locations.roles.corporate party.unwanted guest",
-				"locations.roles.corporate party.owner",
-				"locations.roles.corporate party.secretary",
-				"locations.roles.corporate party.delivery boy",
-				"locations.roles.corporate party.accountant"
+				"locations.roles.theTag.tagger",
+				"locations.roles.theTag.tag-meister",
+				"locations.roles.theTag.runner",
+				"locations.roles.theTag runner",
+				"locations.roles.theTag runner",
+				"locations.roles.theTag runner",
+				"locations.roles.theTag Goofus"
 			]
 		},
 		{
-			"name": "locations.crusader army",
+			"name": "locations.AMERICA early 1860s",
 			"roles": [
-				"locations.roles.crusader army.monk",
-				"locations.roles.crusader army.imprisoned saracen",
-				"locations.roles.crusader army.servant",
-				"locations.roles.crusader army.bishop",
-				"locations.roles.crusader army.squire",
-				"locations.roles.crusader army.archer",
-				"locations.roles.crusader army.knight"
+				"locations.roles.AMERICA early 1860s.racist",
+				"locations.roles.AMERICA early 1860s.slave",
+				"locations.roles.AMERICA early 1860s.slaveholder",
+				"locations.roles.AMERICA early 1860s.abolitionist",
+				"locations.roles.AMERICA early 1860s.Abraham Lincoln",
+				"locations.roles.AMERICA early 1860s.Union soldier",
+				"locations.roles.AMERICA early 1860s.Confederate soldier"
 			]
 		},
 		{
 			"name": "locations.casino",
 			"roles": [
-				"locations.roles.casino.bartender",
-				"locations.roles.casino.head security guard",
+				"locations.roles.casino.Lester",
+				"locations.roles.casino.Aiden",
 				"locations.roles.casino.bouncer",
 				"locations.roles.casino.manager",
 				"locations.roles.casino.hustler",
 				"locations.roles.casino.dealer",
-				"locations.roles.casino.gambler"
+				"locations.roles.casino.COLONEL SANDERS"
 			]
 		},
 		{
-			"name": "locations.day spa",
+			"name": "locations.crime scene",
 			"roles": [
-				"locations.roles.day spa.stylist",
-				"locations.roles.day spa.masseuse",
-				"locations.roles.day spa.manicurist",
-				"locations.roles.day spa.makeup artist",
-				"locations.roles.day spa.dermatologist",
-				"locations.roles.day spa.beautician",
-				"locations.roles.day spa.customer"
+				"locations.roles.crime scene.criminal",
+				"locations.roles.crime scene.cop",
+				"locations.roles.crime scene.victim",
+				"locations.roles.crime scene.whitness",
+				"locations.roles.crime scene.framed",
+				"locations.roles.crime scene.victim's parent",
+				"locations.roles.crime scene.not really a whitness"
 			]
 		},
 		{
-			"name": "locations.embassy",
+			"name": "locations.bomber",
 			"roles": [
-				"locations.roles.embassy.security guard",
-				"locations.roles.embassy.secretary",
-				"locations.roles.embassy.ambassador",
-				"locations.roles.embassy.tourist",
-				"locations.roles.embassy.refugee",
-				"locations.roles.embassy.diplomat",
-				"locations.roles.embassy.government official"
+				"locations.roles.bomber.bombadier",
+				"locations.roles.bomber.pilot",
+				"locations.roles.bomber.copilot",
+				"locations.roles.bomber.belly gunner",
+				"locations.roles.bomber.top gunner",
+				"locations.roles.bomber.nose gunner",
+				"locations.roles.bomber.tail gunner"
 			]
 		},
 		{
@@ -135,15 +135,15 @@
 			]
 		},
 		{
-			"name": "locations.hotel",
+			"name": "locations.hole",
 			"roles": [
-				"locations.roles.hotel.doorman",
-				"locations.roles.hotel.security guard",
-				"locations.roles.hotel.manager",
-				"locations.roles.hotel.housekeeper",
-				"locations.roles.hotel.bartender",
-				"locations.roles.hotel.bellman",
-				"locations.roles.hotel.customer"
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.genocidal murderer"
 			]
 		},
 		{
@@ -159,39 +159,39 @@
 			]
 		},
 		{
-			"name": "locations.movie studio",
+			"name": "locations.Breakfast",
 			"roles": [
-				"locations.roles.movie studio.stunt man",
-				"locations.roles.movie studio.sound engineer",
-				"locations.roles.movie studio.camera man",
-				"locations.roles.movie studio.director",
-				"locations.roles.movie studio.costume artist",
-				"locations.roles.movie studio.producer",
-				"locations.roles.movie studio.actor"
+				"locations.roles.Breakfast.bottle-flip master",
+				"locations.roles.Breakfast.sadistic planner",
+				"locations.roles.Breakfast.cowboy",
+				"locations.roles.Breakfast.chess player",
+				"locations.roles.Breakfast.intruding speaker",
+				"locations.roles.Breakfast.j a m e s",
+				"locations.roles.Breakfast.the news guy"
 			]
 		},
 		{
-			"name": "locations.ocean liner",
+			"name": "locations.minecraft",
 			"roles": [
-				"locations.roles.ocean liner.cook",
-				"locations.roles.ocean liner.captain",
-				"locations.roles.ocean liner.bartender",
-				"locations.roles.ocean liner.musician",
-				"locations.roles.ocean liner.waiter",
-				"locations.roles.ocean liner.mechanic",
-				"locations.roles.ocean liner.rich passenger"
+				"locations.roles.minecraft.steve",
+				"locations.roles.minecraft.alex",
+				"locations.roles.minecraft.creeper",
+				"locations.roles.minecraft.wither",
+				"locations.roles.minecraft.ender dragon",
+				"locations.roles.minecraft.skeleton",
+				"locations.roles.minecraft.zombie"
 			]
 		},
 		{
-			"name": "locations.passenger train",
+			"name": "locations.terraria",
 			"roles": [
-				"locations.roles.passenger train.mechanic",
-				"locations.roles.passenger train.border patrol",
-				"locations.roles.passenger train.train attendant",
-				"locations.roles.passenger train.restaurant chef",
-				"locations.roles.passenger train.train driver",
-				"locations.roles.passenger train.stoker",
-				"locations.roles.passenger train.passenger"
+				"locations.roles.terraria.dead npc",
+				"locations.roles.terraria.raging player",
+				"locations.roles.terraria.slime",
+				"locations.roles.terraria.modder",
+				"locations.roles.terraria.Empress of Light",
+				"locations.roles.terraria.Perfortor",
+				"locations.roles.terraria.WAR CRIMINAL"
 			]
 		},
 		{
@@ -202,7 +202,7 @@
 				"locations.roles.pirate ship.cannoneer",
 				"locations.roles.pirate ship.tied up prisoner",
 				"locations.roles.pirate ship.cabin boy",
-				"locations.roles.pirate ship.brave captain",
+				"locations.roles.pirate ship.idiot captain",
 				"locations.roles.pirate ship.sailor"
 			]
 		},
@@ -257,61 +257,61 @@
 		{
 			"name": "locations.service station",
 			"roles": [
-				"locations.roles.service station.manager",
-				"locations.roles.service station.tire specialist",
-				"locations.roles.service station.biker",
-				"locations.roles.service station.car owner",
-				"locations.roles.service station.car wash operator",
-				"locations.roles.service station.electrician",
-				"locations.roles.service station.auto mechanic"
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus"
 			]
 		},
 		{
 			"name": "locations.space station",
 			"roles": [
-				"locations.roles.space station.engineer",
+				"locations.roles.space station.amongus character",
 				"locations.roles.space station.alien",
 				"locations.roles.space station.pilot",
-				"locations.roles.space station.commander",
-				"locations.roles.space station.scientist",
-				"locations.roles.space station.doctor",
-				"locations.roles.space station.space tourist"
+				"locations.roles.space station.Obi won kanobi",
+				"locations.roles.space station.star trek",
+				"locations.roles.space station.dog",
+				"locations.roles.space station.terrorist"
 			]
 		},
 		{
 			"name": "locations.submarine",
 			"roles": [
-				"locations.roles.submarine.cook",
+				"locations.roles.submarine.torpedo master",
 				"locations.roles.submarine.commander",
 				"locations.roles.submarine.sonar technician",
-				"locations.roles.submarine.electronics technician",
-				"locations.roles.submarine.radioman",
-				"locations.roles.submarine.navigator",
-				"locations.roles.submarine.sailor"
+				"locations.roles.submarine.Sociopath",
+				"locations.roles.submarine.idiot sargeant",
+				"locations.roles.submarine.major major",
+				"locations.roles.submarine.your probably dead fish"
 			]
 		},
 		{
 			"name": "locations.supermarket",
 			"roles": [
-				"locations.roles.supermarket.cashier",
-				"locations.roles.supermarket.butcher",
-				"locations.roles.supermarket.janitor",
-				"locations.roles.supermarket.security guard",
-				"locations.roles.supermarket.food sample demonstrator",
-				"locations.roles.supermarket.shelf stocker",
-				"locations.roles.supermarket.customer"
+				"locations.roles.supermarket.robber",
+				"locations.roles.supermarket.shopper",
+				"locations.roles.supermarket.dead guy",
+				"locations.roles.supermarket.can",
+				"locations.roles.supermarket.violent child",
+				"locations.roles.supermarket.terrorist",
+				"locations.roles.supermarket.Rocky (the dog)"
 			]
 		},
 		{
-			"name": "locations.theater",
+			"name": "locations.Legend of Zelda",
 			"roles": [
-				"locations.roles.theater.coat check lady",
-				"locations.roles.theater.prompter",
-				"locations.roles.theater.cashier",
-				"locations.roles.theater.director",
-				"locations.roles.theater.actor",
-				"locations.roles.theater.crew man",
-				"locations.roles.theater.audience member"
+				"locations.roles.Legend of Zelda.Zelda",
+				"locations.roles.Legend of Zelda.Link",
+				"locations.roles.Legend of Zelda.Ganon",
+				"locations.roles.Legend of Zelda.Bokoblin",
+				"locations.roles.Legend of Zelda.Gleeok",
+				"locations.roles.Legend of Zelda.Moblin",
+				"locations.roles.Legend of Zelda.THE OLD MAN"
 			]
 		},
 		{
